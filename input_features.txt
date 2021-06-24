@@ -1,0 +1,21 @@
+Ranking metrics and their sub-metrics:
+A)Teaching, Learning & Resources (TLR):
+->Student Strength including Doctoral Students (SS)
+->Faculty-student ratio with emphasis on permanent faculty (FSR)
+->Combined metric for Faculty with PhD (or equivalent) and Experience (FQE)
+->Financial Resources and their Utilisation (FRU)
+B)Research and Professional Practice (RP):
+->Combined metric for Publications (PU)
+->Combined metric for Quality of Publications (QP)
+->IPR and Patents: Published and Granted (IPR)
+->Footprint of Projects and Professional Practice (FPPP)
+C)Graduation Outcomes (GO):
+->Metric for University Examinations (GUE)
+->Metric for Number of Ph.D. Students Graduated (GPHD)
+->Combined metric for Placement and Higher Studies (GPH)
+->Median Salary (GMS)
+D)Outreach and Inclusivity (OI):
+->Percentage of Students from Other States/Countries (Region Diversity RD)
+->Percentage of Women (Women Diversity WD)
+->Economically and Socially Challenged Students (ESCS)
+->Facilities for Physically Challenged Students (PCS)
